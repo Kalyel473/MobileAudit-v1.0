@@ -33,7 +33,7 @@ O uso indevido pode violar:
 ### Instalação Automática (Linux/Ubuntu)
 
 ```bash
-git clone https://github.com/seu-usuario/MobileAudit.git
+git clone https://github.com/kalyel473/MobileAudit.git
 cd MobileAudit
 chmod +x install.sh
 ./install.sh
@@ -43,7 +43,7 @@ chmod +x install.sh
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/MobileAudit.git
+git clone https://github.com/kalyel473/MobileAudit.git
 cd MobileAudit
 
 # 2. Instale dependências Python
